@@ -10,11 +10,11 @@ run the python prog: `movie_trailer_website_project_1.py`
 Additional resources files:
 * `tomatoes_squeezer.py` - html renderer
 * `media.py` - class definitions
-* `css/, images/, js/` folders
+* `css/, images/, js/` folders (for the output html file to run)
 
 Requires internet connection.
 
-####user requirements:
+####User requirements:
 User must provide a `movie_info.txt` file with the selected movies data.
 Each movie info field is in a separate line. And exactly the following order:
 
@@ -35,7 +35,7 @@ an empty line must be used to separate movies' data.
 ####Program output:
 The program creates the `movie_trailer_website.html` page.
 
-Also opens the page in the default browser.
+Also opens the page in the default browser. Requires the `css/, images/, js/` folders.
 
 
 ####Future development goals - all help is welcome :)
