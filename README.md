@@ -47,9 +47,10 @@ Also opens the page in the default browser. Requires the `css/, images/, js/` fo
 * help having the page (really) responsive...
 
 ######functionalities 
-I have a film library of about 300 titles. It would take a lot of time to gather all movie info manually...
+I have a small film library, but would take a lot of time to gather all movie info manually...
 * fetch online imdb rating and pg rating
 * find and fetch online trailer and poster
+* import from excel
 
 
 
