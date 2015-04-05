@@ -11,6 +11,7 @@ Additional resources files:
 * `tomatoes_squeezer.py` - html renderer
 * `media.py` - class definitions
 * `css/, images/, js/` folders (for the output html file to run)
+* `movie_info.txt` - movie info data
 
 Requires internet connection.
 
