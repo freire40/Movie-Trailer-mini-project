@@ -42,6 +42,8 @@ Also opens the page in the default browser. Requires the `css/, images/, js/` fo
 ######Page and navigation
 * nav bar, allowing for movie sections or genres
 * a text-simple list view of the titles
+* help geting the banner background image working proporly
+* help having the page (really) responsive...
 
 ######functionalities 
 I have a film library of about 300 titles. It would take a lot of time to gather all movie info manually...
